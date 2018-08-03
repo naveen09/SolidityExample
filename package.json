@@ -1,0 +1,20 @@
+{
+  "name": "ibchackathon",
+  "version": "1.0.0",
+  "description": "Microchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blockchain",
+    "microchain"
+  ],
+  "author": "Naveen Aechan, Tilak, Uday, rajendra, abhinav",
+  "license": "ISC",
+  "dependencies": {
+    "ganache-cli": "^6.1.6",
+    "solc": "^0.4.24",
+    "web3": "^0.20.7"
+  }
+}
